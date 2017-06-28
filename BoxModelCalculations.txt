@@ -1,0 +1,12 @@
+
+.calculateme {
+    height: 150px;
+    width: 400px;
+    margin: 20px;
+    border: 1px solid red;
+    padding: 10px;
+}
+
+
+Total Height = 20 + 1 + 10 + 150 + 10 + 1 +20 = 212px
+Total Width = 20 + 1 + 10 + 400 + 10 + 1 + 20 = 462px
